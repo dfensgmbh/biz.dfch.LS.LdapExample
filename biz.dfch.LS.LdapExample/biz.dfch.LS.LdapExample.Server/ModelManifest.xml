@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample.Server\Properties\Service.lsml" Checksum="679C78F29C5AF23E9956A773B0E46DF90F7B86CADA0B79571E5896A1C79F5B70" />
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample.Server\Properties\DataSources\ApplicationData.lsml" Checksum="986A4E2C3BC71E61B26C49DBB7451F9203AA85AB5825740AC6E35E7095E0722C" />
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample.Server\DataSources\ApplicationData\ADUsers.lsml" Checksum="242D037F856CBF47614B83146D87BF00502E06B0DB4C1D2CCE9858AF42E3DB2F" />
+  </Documents>
+</ModelDocumentManifest>

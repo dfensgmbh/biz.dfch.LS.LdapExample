@@ -1,0 +1,41 @@
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.Data.Edm.5.6.0\lib\net40\Microsoft.Data.Edm.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.Data.OData.5.6.0\lib\net40\Microsoft.Data.OData.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Server\Microsoft.Data.Services.Client.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Server\Microsoft.Data.Services.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Server\Microsoft.LightSwitch.AppBridge.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Client\Microsoft.LightSwitch.CodeMarker.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Client\Microsoft.LightSwitch.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Client\Microsoft.LightSwitch.ExportProvider.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample\_Pvt_Extensions\Microsoft.LightSwitch.Extensions\Server\Reference\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Server\Microsoft.LightSwitch.ManifestService.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Server\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Server\Microsoft.LightSwitch.Server.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Server\Microsoft.LightSwitch.Server.Host.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\Packages\System.IdentityModel.Tokens.Jwt.1.0.0\lib\net45\System.IdentityModel.Tokens.Jwt.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.AspNet.WebApi.Client.5.2.2\lib\net45\System.Net.Http.Formatting.dll
+C:\Program Files (x86)\Microsoft SDKs\RIA Services\\v1.0\Libraries\Server\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Program Files (x86)\Microsoft SDKs\RIA Services\\v1.0\Libraries\Server\System.ServiceModel.DomainServices.Hosting.dll
+C:\Program Files (x86)\Microsoft SDKs\RIA Services\\v1.0\Libraries\Server\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Program Files (x86)\Microsoft SDKs\RIA Services\\v1.0\Libraries\Server\System.ServiceModel.DomainServices.Server.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\\Server\System.ServiceModel.PollingDuplex.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\System.Spatial.5.6.0\lib\net40\System.Spatial.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.AspNet.WebApi.Core.5.2.2\lib\net45\System.Web.Http.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.AspNet.WebApi.OData.5.2.0\lib\net45\System.Web.Http.OData.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.AspNet.WebApi.WebHost.5.2.2\lib\net45\System.Web.Http.WebHost.dll
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\Server\Microsoft.WindowsAzure.ServiceRuntime.dll
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.Data.Edm.5.6.0\lib\net40\Microsoft.Data.Edm.xml
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.Data.OData.5.6.0\lib\net40\Microsoft.Data.OData.xml
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.xml
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.AspNet.WebApi.Client.5.2.2\lib\net45\System.Net.Http.Formatting.xml
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\System.Spatial.5.6.0\lib\net40\System.Spatial.xml
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.AspNet.WebApi.Core.5.2.2\lib\net45\System.Web.Http.xml
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.AspNet.WebApi.OData.5.2.0\lib\net45\System.Web.Http.OData.xml
+E:\BitBucketGit\biz.dfch.LS.LdapExample\packages\Microsoft.AspNet.WebApi.WebHost.5.2.2\lib\net45\System.Web.Http.WebHost.xml
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\Client\Microsoft.LightSwitch.xml
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\Server\Microsoft.LightSwitch.Server.xml
+E:\BitBucketGit\biz.dfch.LS.LdapExample\Packages\System.IdentityModel.Tokens.Jwt.1.0.0\lib\net45\System.IdentityModel.Tokens.Jwt.xml
+C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Server\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Server\System.ServiceModel.DomainServices.Hosting.xml
+C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Server\System.ServiceModel.DomainServices.Hosting.OData.xml
+C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Server\System.ServiceModel.DomainServices.Server.xml

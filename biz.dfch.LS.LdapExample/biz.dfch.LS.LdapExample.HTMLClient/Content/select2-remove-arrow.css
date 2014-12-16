@@ -1,0 +1,10 @@
+﻿ /* Remove drop-down arrows from Select2 boxes */
+.select2-container .select2-choice .select2-arrow {
+    display: none;
+}
+.select2-container.select2-allowclear .select2-choice .select2-chosen {
+    margin-right: 12px;
+}
+.select2-container .select2-choice abbr {
+    right: 0;
+}

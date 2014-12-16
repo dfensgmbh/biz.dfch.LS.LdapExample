@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample.HTMLClient\Properties\Client.lsml" Checksum="98D4B5D5D1F1888F7F0CD30BA8420CD18254F36E211C345DA0CE1501ACCCD921" />
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample.HTMLClient\Properties\Proxies.lsml" Checksum="2A7EDE98329BF8D8399DF306194D268420D1F88AC497C079E5CEA7807E44EF53" />
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample.HTMLClient\Screens\AddEditADUser.lsml" Checksum="64C5B265F31A63C008A3801EDD31B876EC34F181062F88694DF308B582CCC5E2" />
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample\biz.dfch.LS.LdapExample.HTMLClient\Screens\BrowseADUsers.lsml" Checksum="2482E0C00CC348602B7486194990A6C809CA7261B1C366EDFFD76C40498A96F8" />
+  </Documents>
+</ModelDocumentManifest>
